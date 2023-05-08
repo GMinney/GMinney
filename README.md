@@ -12,21 +12,21 @@
 
 <div align="center">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
-   <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
-   <img alt="LinkedIn: GMinney" src="YOUR-DEFAULT-IMAGE">
+   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/linkedin.svg">
+   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/linkedin.svg">
+   <img alt="LinkedIn: GMinney" src="/assets/svg/linkedin.svg">
   </picture>
 
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
-   <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
-   <img alt="Indeed: Gminney" src="YOUR-DEFAULT-IMAGE">
+   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/indeed.svg">
+   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/indeed.svg">
+   <img alt="Indeed: Gminney" src="/assets/svg/indeed.svg">
   </picture>
 
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
-   <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
-   <img alt="Handshake: GMinney" src="YOUR-DEFAULT-IMAGE">
+   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/handshake.svg">
+   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/handshake.svg">
+   <img alt="Handshake: GMinney" src="/assets/svg/handshake.svg">
   </picture>
 </div>
 
@@ -36,39 +36,39 @@
 
 <div align="center">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
-   <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
-   <img alt="VSCode" src="YOUR-DEFAULT-IMAGE">
+   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/vscode.svg">
+   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/vscode.svg">
+   <img alt="VSCode" src="/assets/svg/vscode.svg">
   </picture>
 
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
-   <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
-   <img alt="VSCommunity" src="YOUR-DEFAULT-IMAGE">
+   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/vscommunity.svg">
+   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/vscommunity.svg">
+   <img alt="VSCommunity" src="/assets/svg/vscommunity.svg">
   </picture>
 
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
-   <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
-   <img alt="InteliJ" src="YOUR-DEFAULT-IMAGE">
+   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/intellij.svg">
+   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/intellij.svg">
+   <img alt="InteliJ" src="/assets/svg/intellij.svg">
   </picture>
   
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
-   <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
-   <img alt="Python" src="YOUR-DEFAULT-IMAGE">
+   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/python.svg">
+   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/python.svg">
+   <img alt="Python" src="/assets/svg/python.svg">
   </picture>
   
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
-   <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
-   <img alt="Java" src="YOUR-DEFAULT-IMAGE">
+   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/java.svg">
+   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/java.svg">
+   <img alt="Java" src="/assets/svg/java.svg">
   </picture>
   
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
-   <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
-   <img alt="C#" src="YOUR-DEFAULT-IMAGE">
+   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/csharp.svg">
+   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/csharp.svg">
+   <img alt="C#" src="/assets/svg/csharp.svg">
   </picture>
 </div>
 
