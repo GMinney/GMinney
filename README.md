@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gminney/">
+  <a href="https://www.linkedin.com/in/gminney/" target="_blank">
     <picture>
      <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/linkedin.svg">
      <source media="(prefers-color-scheme: light)" srcset="/assets/svg/linkedin.svg">
@@ -23,7 +23,7 @@
    <img alt="Indeed: Gminney" src="/assets/svg/indeed.svg">
   </picture>
 
-  <a href="https://app.joinhandshake.com/stu/users/41446902">
+  <a href="https://app.joinhandshake.com/stu/users/41446902" target="_blank">
     <picture>
      <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/handshake-logo.svg">
      <source media="(prefers-color-scheme: light)" srcset="/assets/svg/handshake-logo.svg">
