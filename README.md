@@ -4,30 +4,32 @@
 
 <h3 align="center">Tenacity for difficult problems</h3>
 
-<br>
 
 <div align="center">
   <h4>You can reach me at...</h4>
 </div>
 
 <div align="center">
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/linkedin.svg">
-   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/linkedin.svg">
-   <img alt="LinkedIn: GMinney" src="/assets/svg/linkedin.svg">
-  </picture>
-
+  <a href="https://www.linkedin.com/in/gminney/">
+    <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/linkedin.svg">
+     <source media="(prefers-color-scheme: light)" srcset="/assets/svg/linkedin.svg">
+     <img alt="LinkedIn: GMinney" src="/assets/svg/linkedin.svg">
+    </picture>
+  </a>
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/indeed.svg">
    <source media="(prefers-color-scheme: light)" srcset="/assets/svg/indeed.svg">
    <img alt="Indeed: Gminney" src="/assets/svg/indeed.svg">
   </picture>
 
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/handshake.svg">
-   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/handshake.svg">
-   <img alt="Handshake: GMinney" src="/assets/svg/handshake.svg">
-  </picture>
+  <a href="https://app.joinhandshake.com/stu/users/41446902">
+    <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/handshake-logo.svg">
+     <source media="(prefers-color-scheme: light)" srcset="/assets/svg/handshake-logo.svg">
+     <img alt="Handshake: GMinney" src="/assets/svg/handshake-logo.svg">
+    </picture>
+  </a>
 </div>
 
 <div align="center">
@@ -72,28 +74,26 @@
   </picture>
 </div>
 
-<br>
-
 <h2>About Me</h2>
 
 <details>
 <summary>Languages</summary>
 
-lan, lan, lan
+HTML, CSS, JavaSript, XML, JSON, Python, Java, C, C++, C#, Go, SQL, PHP, Prolog, Swift
 
 </details>
 
 <details>
 <summary>Libraries</summary>
 
-lan, lan, lan
+TensorFlow, Keras, WebGL, ThreeJS, NodeJS, HTTP
 
 </details>
 
 <details>
 <summary>Frameworks</summary>
 
-lan, lan, lan
+ASP.NET, .NET Core, Visual C++, Jakarta Servlet
 
 </details>
 
