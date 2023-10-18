@@ -1,119 +1,98 @@
+<a href="https://komarev.com/ghpvc/?username=GMinney">
+  <img align="right" src="https://komarev.com/ghpvc/?username=GMinney&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+<br>
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="/GStock Background.png">
+   <source media="(prefers-color-scheme: light)" srcset="/GStock Background.png">
+   <img alt="GMinney" src="/GStock Background.png">
+</picture>
+<h2 align="center"> 
+  <samp>Hi👋, my name is Gavin</samp>
+</h2>
 
-<h1 align="center"> Hi👋, my name is Gavin</h1>
+<p align="center">
+  <samp>I'm a developer from Pennsylvania, and I have a tenacity for difficult problems.</samp>
+</p>
 
 
-<h3 align="center">Tenacity for difficult problems</h3>
-
-
-<div align="center">
-  <h4>You can reach me at...</h4>
-</div>
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/gminney/" target="_blank">
-    <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/linkedin.svg">
-     <source media="(prefers-color-scheme: light)" srcset="/assets/svg/linkedin.svg">
-     <img alt="LinkedIn: GMinney" src="/assets/svg/linkedin.svg">
-    </picture>
-  </a>
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/indeed.svg">
-   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/indeed.svg">
-   <img alt="Indeed: Gminney" src="/assets/svg/indeed.svg">
-  </picture>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GMinney"/>
+ </a>
+</p>
 
-  <a href="https://app.joinhandshake.com/stu/users/41446902" target="_blank">
-    <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/handshake-logo.svg">
-     <source media="(prefers-color-scheme: light)" srcset="/assets/svg/handshake-logo.svg">
-     <img alt="Handshake: GMinney" src="/assets/svg/handshake-logo.svg">
-    </picture>
-  </a>
-</div>
-
-<div align="center">
-  <h4>Much love for...</h4>
-</div>
-
-<div align="center">
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/vscode.svg">
-   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/vscode.svg">
-   <img alt="VSCode" src="/assets/svg/vscode.svg">
-  </picture>
-
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/vscommunity.svg">
-   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/vscommunity.svg">
-   <img alt="VSCommunity" src="/assets/svg/vscommunity.svg">
-  </picture>
-
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/intellij.svg">
-   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/intellij.svg">
-   <img alt="InteliJ" src="/assets/svg/intellij.svg">
-  </picture>
-  
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/python.svg">
-   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/python.svg">
-   <img alt="Python" src="/assets/svg/python.svg">
-  </picture>
-  
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/java.svg">
-   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/java.svg">
-   <img alt="Java" src="/assets/svg/java.svg">
-  </picture>
-  
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/assets/svg/csharp.svg">
-   <source media="(prefers-color-scheme: light)" srcset="/assets/svg/csharp.svg">
-   <img alt="C#" src="/assets/svg/csharp.svg">
-  </picture>
-</div>
-
-<h2>About Me</h2>
-
-<details>
-<summary>Languages</summary>
-
-HTML, CSS, JavaSript, XML, JSON, Python, Java, C, C++, C#, Go, SQL, PHP, Prolog, Swift
-
-</details>
-
-<details>
-<summary>Libraries</summary>
-
-TensorFlow, Keras, WebGL, ThreeJS, NodeJS, HTTP
-
-</details>
-
-<details>
-<summary>Frameworks</summary>
-
-ASP.NET, .NET Core, Visual C++, Jakarta Servlet
-
-</details>
+<h1>About Me</h1>
 
 * :eye_speech_bubble: Currently working on private AI projects
+  
 * :thought_balloon: Currently interning at ThoughtAI
+  
 * :brain: Interested in AI projects with TensorFlow, Keras
+  
 * :speech_balloon: You can reach me at my email lloydminnbusiness@gmail.com
+  
 * :earth_americas: My website is currently in progress...
 
-<!--
-**GMinney/GMinney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### Coding with/Much love for...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+![Static Badge](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF&color=%23DDBB00)
+![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=%23FFFFFF&color=%2341DAFB)
+![Static Badge](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=%23FFFFFF&color=%23339933)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-white?style=for-the-badge&logo=json&logoColor=%23FFFFFF&color=%23000000)
+![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%23FFFFFF&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=%23FFFFFF&color=%23343434)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=%23FFFFFF&color=%2300599C)
+![Static Badge](https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=csharp&logoColor=%23FFFFFF&color=%23512BD4)
+![Static Badge](https://img.shields.io/badge/GoLang-white?style=for-the-badge&logo=go&logoColor=%23FFFFFF&color=%2300ADD8)
+![Static Badge](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF&color=%234479A1)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF&color=%234169E1)
+![Static Badge](https://img.shields.io/badge/Swift-white?style=for-the-badge&logo=swift&logoColor=%23FFFFFF&color=%23F05138)
+![Static Badge](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=%23FFFFFF&color=%23FF6F00)
+![Static Badge](https://img.shields.io/badge/Keras-white?style=for-the-badge&logo=keras&logoColor=%23FFFFFF&color=%23D00000)
+![Static Badge](https://img.shields.io/badge/WebGL-white?style=for-the-badge&logo=webgl&logoColor=%23FFFFFF&color=%23990000)
+![Static Badge](https://img.shields.io/badge/ThreeJS-white?style=for-the-badge&logo=three.js&logoColor=%23FFFFFF&color=%23000000)
+![Static Badge](https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=.net&logoColor=%23FFFFFF&color=%23512BD4)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio-white?style=for-the-badge&logo=visualstudio&logoColor=%23FFFFFF&color=%235C2D91)
+![Static Badge](https://img.shields.io/badge/VSCode-white?style=for-the-badge&logo=visualstudiocode&logoColor=%23FFFFFF&color=%23007ACC)
+![Android](https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=%23FFFFFF&color=%233DDC84)
+![Static Badge](https://img.shields.io/badge/IntelliJ-white?style=for-the-badge&logo=intellijidea&logoColor=%23FFFFFF&color=%23000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<hr/>
+
+<!-- STATS SECTION -->
+
+<p align="center">
+  <a href="https://github.com/GMinney">
+    <img src="https://streak-stats.demolab.com/?user=GMinney&background=1a1b27&hide_border=true&ring=BF91F3&fire=BF91F3&currStreakLabel=388BFD&sideLabels=388BFD&currStreakNum=26AEA2&sideNums=388BFD&dates=26AEA2" alt="Gavin's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/GMinney">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GMinney&theme=tokyonight" alt="Gavin's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+  <a href="https://github.com/GMinney"><img alt="Gavin's Github Stats" src="https://github-readme-stats-hz5kwh6zf-gavin-minneys-projects.vercel.app/api?username=GMinney&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/GMinney"><img alt="Gavin's Top Languages" src="https://github-readme-stats-hz5kwh6zf-gavin-minneys-projects.vercel.app/api/top-langs/?username=GMinney&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/GMinney">
+    <img src="https://github-readme-activity-graph-5z2srfgn1-gavin-minneys-projects.vercel.app/graph?username=GMinney&custom_title=Gavin's%20GitHub%20Activity%20Graph&theme=tokyo-night&hide_border=true" alt="Gavin's GitHub Contribution"/>
+  </a>
+</p>
+
