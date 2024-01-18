@@ -82,11 +82,14 @@
   </a>
 </p>
 <!-- Vercel - Github-readme-stats -->
-<a> 
-  <a href="https://github.com/GMinney"><img alt="Gavin's Github Stats" src="https://github-readme-stats-e598murof-gavin-minneys-projects.vercel.app/api?username=GMinney&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/GMinney"><img alt="Gavin's Top Languages" src="https://github-readme-stats-e598murof-gavin-minneys-projects.vercel.app/api/top-langs/?username=GMinney&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<p align="center" align-items="baseline">
+  <a href="https://github.com/GMinney/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-ochre-phi-61.vercel.app/api/?username=GMinney&theme=tokyonight&hide_border=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/GMinney/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-ochre-phi-61.vercel.app/api/top-langs/?username=GMinney&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 <br>
 <!-- Vercel - Github-activity-graphs -->
