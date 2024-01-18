@@ -84,7 +84,7 @@
 <!-- Vercel - Github-readme-stats -->
 <p align="center" align-items="baseline">
   <a href="https://github.com/GMinney/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-ochre-phi-61.vercel.app/api/?username=GMinney&theme=tokyonight&hide_border=true&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats-ochre-phi-61.vercel.app/api/?username=GMinney&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/GMinney/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-ochre-phi-61.vercel.app/api/top-langs/?username=GMinney&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
