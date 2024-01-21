@@ -12,7 +12,7 @@
 </h2>
 
 <p align="center">
-  <samp>I'm a developer from Pennsylvania, and I have a tenacity for difficult problems.</samp>
+  <samp>I write software. Primarily a crypto dev. Tenacity for difficult problems.</samp>
 </p>
 
 
@@ -22,24 +22,17 @@
  </a>
 </p>
 
-<h1>About Me</h1>
+<hr/>
 
-* :eye_speech_bubble: Currently working on private AI projects
+<samp>Blockchain developer familiar with Bitcoin and EVM based chains</samp>
   
-* :thought_balloon: Currently interning at ThoughtAI
+<samp>Currently interning at ThoughtAI, </samp> ![Static Badge](https://img.shields.io/badge/Thought%20Live-white?style=for-the-badge&logoColor=%23FFFFFF&color=%231C3142) ![Static Badge](https://img.shields.io/badge/Thought%20AI-white?style=for-the-badge&logoColor=%23FFFFFF&color=%2370CDDB)
   
-* :brain: Interested in AI projects with TensorFlow, Keras
-  
-* :speech_balloon: You can reach me at my email lloydminnbusiness@gmail.com
-  
-* :earth_americas: My website is currently in progress...
-
-<br>
-
-### Coding with/Much love for...
+<samp>Interested in AI, ML, ECC, and Cryptocurrency.</samp>
 
 <hr/>
 
+<!--https://simpleicons.org/ and https://shields.io/badges-->
 ![Static Badge](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF&color=%23DDBB00)
 ![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=%23FFFFFF&color=%2341DAFB)
 ![Static Badge](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=%23FFFFFF&color=%23339933)
@@ -69,13 +62,11 @@
 <hr/>
 
 <!-- STATS SECTION -->
-
 <p align="center">
   <a href="https://github.com/GMinney">
     <img src="https://streak-stats.demolab.com/?user=GMinney&background=1a1b27&hide_border=true&ring=BF91F3&fire=BF91F3&currStreakLabel=388BFD&sideLabels=388BFD&currStreakNum=26AEA2&sideNums=388BFD&dates=26AEA2" alt="Gavin's GitHub streak"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/GMinney">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GMinney&theme=tokyonight" alt="Gavin's GitHub Contribution"/>
@@ -87,11 +78,9 @@
     <img height=200 align="center" src="https://github-readme-stats-ochre-phi-61.vercel.app/api/?username=GMinney&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/GMinney/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-ochre-phi-61.vercel.app/api/top-langs/?username=GMinney&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
+    <img height=200 align="center" src="https://github-readme-stats-ochre-phi-61.vercel.app/api/top-langs/?username=GMinney&layout=compact&langs_count=8&card_width=300&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-
-<br>
 <!-- Vercel - Github-activity-graphs -->
 <p align="center">
   <a href="https://github.com/GMinney">
