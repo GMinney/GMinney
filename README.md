@@ -7,12 +7,10 @@
    <source media="(prefers-color-scheme: light)" srcset="/GStock Background.png">
    <img alt="GMinney" src="/GStock Background.png">
 </picture>
-<h2 align="center"> 
-  <samp>Hi👋, my name is Gavin</samp>
-</h2>
+
 
 <p align="center">
-  <samp>I write software. Primarily a crypto dev. Tenacity for difficult problems.</samp>
+  <samp>Gavin, Full Stack Dev, Crypto Dev.</samp>
 </p>
 
 
@@ -24,11 +22,13 @@
 
 <hr/>
 
-<samp>Blockchain developer familiar with Bitcoin and EVM based chains</samp>
+<samp>Blockchain developer familiar with Bitcoin and EVM style chains</samp>
   
-<samp>Currently interning at ThoughtAI, </samp> ![Static Badge](https://img.shields.io/badge/Thought%20Live-white?style=for-the-badge&logoColor=%23FFFFFF&color=%231C3142) ![Static Badge](https://img.shields.io/badge/Thought%20AI-white?style=for-the-badge&logoColor=%23FFFFFF&color=%2370CDDB)
+<samp>Currently looking for work, USA</samp>
   
-<samp>Interested in AI, ML, ECC, and Cryptocurrency.</samp>
+<samp>Interested in AI, ML, ECC/Cryptography Methods, Web Development/Design, and Cryptocurrency.</samp>
+
+<samp>Versatile and not specialized</samp>
 
 <hr/>
 
@@ -67,24 +67,25 @@
     <img src="https://streak-stats.demolab.com/?user=GMinney&background=1a1b27&hide_border=true&ring=BF91F3&fire=BF91F3&currStreakLabel=388BFD&sideLabels=388BFD&currStreakNum=26AEA2&sideNums=388BFD&dates=26AEA2" alt="Gavin's GitHub streak"/>
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/GMinney">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GMinney&theme=tokyonight" alt="Gavin's GitHub Contribution"/>
   </a>
 </p>
 <!-- Vercel - Github-readme-stats -->
-<p align="center" align-items="baseline">
+<!-- <p align="center" align-items="baseline">
   <a href="https://github.com/GMinney/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-ochre-phi-61.vercel.app/api/?username=GMinney&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/GMinney/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-ochre-phi-61.vercel.app/api/top-langs/?username=GMinney&layout=compact&langs_count=8&card_width=300&theme=tokyonight&hide_border=true" />
   </a>
-</p>
+</p> -->
 <!-- Vercel - Github-activity-graphs -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/GMinney">
     <img src="https://github-readme-activity-graph-gavin-minneys-projects.vercel.app/graph?username=GMinney&custom_title=Gavin's%20GitHub%20Activity%20Graph&theme=tokyo-night&hide_border=true" alt="Gavin's GitHub Contribution"/>
   </a>
 </p>
-
+ -->
